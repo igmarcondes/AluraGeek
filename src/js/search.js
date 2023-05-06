@@ -1,5 +1,5 @@
 let produtos = [];
-const endpointAPI = 'https://alura-geek-api.onrender.com/produtos'
+const endpointAPI = 'db.json'
 
 async function searchProduct() {
   const conexaoAPI = await fetch(endpointAPI)
