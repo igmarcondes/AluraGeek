@@ -1,12 +1,12 @@
 const productList = () => {
-  return fetch(`https://alura-geek-api.onrender.com/produtos`)
+  return fetch(`https://alurageekdb-mblg.onrender.com/produtos/`)
     .then(resposta => {
       return resposta.json()
     })
 }
 
 const createProduct = (url, section, name, price, description) => {
-  fetch(`https://alura-geek-api.onrender.com/produtos`, {
+  fetch(`https://alurageekdb-mblg.onrender.com/produtos/`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -26,20 +26,20 @@ const createProduct = (url, section, name, price, description) => {
 }
 
 const productDelete = (id) => {
-  return fetch(`https://alura-geek-api.onrender.com/produtos/${id}`, {
+  return fetch(`https://alurageekdb-mblg.onrender.com/produtos/${id}`, {
     method: 'DELETE'
   })
 }
 
 const productDetails = (id) => {
-  return fetch(`https://alura-geek-api.onrender.com/produtos/${id}`)
+  return fetch(`https://alurageekdb-mblg.onrender.com/produtos/${id}`)
     .then(resposta => {
       return resposta.json()
     })
 }
 
 const updateProduct = (url, section, name, price, description, id) => {
-  fetch(`https://alura-geek-api.onrender.com/produtos/${id}`, {
+  fetch(`https://alurageekdb-mblg.onrender.com/produtos/${id}`, {
     method: 'PUT',
     headers: {
       'Content-Type': 'application/json'
