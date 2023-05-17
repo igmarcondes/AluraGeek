@@ -6,10 +6,9 @@ Os produtos estão armazenados em db.JSON  
 Editar as informações do produto e alterar no servidor.
 Os produtos podem ser criados, alterados, excluidos em tempo real.
 
-Desktop
+# Login Administrativo
+- Login: admin@alurageek.com
+- Senha: 12345
 
-# Login Admnistrativo
-
-Login: admin@alurageek.com
-Senha: 12345
-
+# Tecnologias utilizadas
+HTML5 - CSS3 - JavaScript
