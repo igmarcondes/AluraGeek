@@ -1,6 +1,9 @@
 #  AluraGeek - ONE
 
-- servidor da API se encontra com lentidão, estou estudando o lugar para hospedar o json gratuitamente.
+- O Servidor da API se encontra com lentidão e demora um pouco para retornar a requisição, estou estudando a melhor hospedagem para json gratuitamente.
+- Você pode visualizar o projeto <a href="https://igmarcondes.github.io/AluraGeek/src/pages/index.html">Clicando Aqui</a>.
+
+#Versão Local
 - Confira a versão local <a href="https://github.com/igmarcondes/AluraGeekLocal">Clicando aqui</a>.
 
 
