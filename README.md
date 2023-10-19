@@ -1,8 +1,8 @@
 #  AluraGeek - ONE
 
-![image](https://github.com/igmarcondes/AluraGeek/assets/118967139/c8a5542b-a63b-4d08-997f-b5cbd690b0a0)
+- servidor da API se encontra com lentidão, estou estudando o lugar para hospedar o json gratuitamente.
+- Confira a versão local <a href="https://github.com/igmarcondes/AluraGeekLocal">Clicando aqui</a>.
 
- # O servidor da API se encontra com lentidão, estou estudando o lugar para hospedar o json gratuitamente.
 
 # Sobre o desafio
 - O desafio principal consiste em desenvolver e implementar CRUD ao e-commerce
@@ -18,5 +18,8 @@
 - HTML5 
 - CSS 
 - JAVASCRIPT
+
+
+![image](https://github.com/igmarcondes/AluraGeek/assets/118967139/c8a5542b-a63b-4d08-997f-b5cbd690b0a0)
 
 
